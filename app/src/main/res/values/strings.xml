@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Service App</string>
+    <string name="title_activity_time_picker">TimePickerActivity</string>
+</resources>
